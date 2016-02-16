@@ -81,7 +81,7 @@ if (isset($_SESSION['connected']) && $_SESSION['connected'] === true) {
 							<label class="control-label"><?php _e('Repository Icon'); ?></label>
 							<div class="controls">
 								<input type="file" class="span6" name="icon" accept="image/x-png" />
-								<p class="help-block"><?php printf(__('Allowed upload format: png, save as %s in root directory.'), '<a href="'.base64_decode(DCRM_REPOURL).'/CydiaIcon.png">CydiaIcon.png</a>'); ?></p>
+								<p class="help-block"><?php printf(__('Allowed upload format: png, save as %s in root directory.'), '<a href="'.base64_decode(DCRM_REPOURL).'CydiaIcon.png">CydiaIcon.png</a>'); ?></p>
 							</div>
 						</div>
 						<br />
