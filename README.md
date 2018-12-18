@@ -5,7 +5,7 @@ This is an open source Repository Manager for Saurik's Cydia™ Clients.
 This program is re-designed from tibounise's "[DCRM](https://github.com/tibounise/DCRM)", and we add almost 95% functions for a wonderful repository.
 
 ##Preview:
-1.  ~~http://apt.82flex.com~~ (closed)
+1.  http://repo.hasim751.com
 2.  http://apt.touchsprite.com
 3.  http://cydia.minwenlsm.pw
 4.  http://apt.sunbelife.com
